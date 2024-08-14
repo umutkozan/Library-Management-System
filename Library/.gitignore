@@ -1,0 +1,24 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled Java bytecode
+*.class
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Logs
+/log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific IDE settings (comment out if using the project-wide .editorconfig file)
+*.iml
+*.ipr
+*.iws
+.idea_modules/
